@@ -1,0 +1,26 @@
+body {
+  background-image:url(basquet.jpg);
+     background-size:cover ;
+      color:white
+}
+.jumbotron {
+  text-align: center;
+  align-content: center;
+}
+button{
+  background-color: #000000;
+  color: #00ffcc;
+}
+td {
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid rgb(0, 0, 0);
+  font-size: 100px;
+  background-color: rgb(255, 247, 0);
+  color: #9238ff;
+}
+
+table {
+  margin: auto auto;
+}
